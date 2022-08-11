@@ -1,0 +1,15 @@
+{
+  "name": "honey",
+  "version": "1.0.0",
+  "description": "Honey's Hearth bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frankie",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.2.0",
+    "main.js": "^0.0.1"
+  }
+}
